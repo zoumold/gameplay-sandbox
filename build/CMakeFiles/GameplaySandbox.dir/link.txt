@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/GameplaySandbox.dir/src/main.cpp.o -o GameplaySandbox  -L/usr/lib/x86_64-linux-gnu  -lSDL2 

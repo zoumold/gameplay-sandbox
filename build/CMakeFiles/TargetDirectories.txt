@@ -1,0 +1,3 @@
+/home/jojokas/Desktop/personal_projects/gameplay-sandbox/build/CMakeFiles/GameplaySandbox.dir
+/home/jojokas/Desktop/personal_projects/gameplay-sandbox/build/CMakeFiles/edit_cache.dir
+/home/jojokas/Desktop/personal_projects/gameplay-sandbox/build/CMakeFiles/rebuild_cache.dir
